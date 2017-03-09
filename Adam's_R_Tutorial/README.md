@@ -1,0 +1,1 @@
+This repo is the code summary of what I learned from the predictive analytics class.
