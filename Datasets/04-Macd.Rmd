@@ -1,0 +1,12 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+
+menu <- read.csv("/Users/AdamLiu/Code/Machine_Learning/Datasets/Kaggle/macdonalds_menu.csv")
+```
+
+
+	
