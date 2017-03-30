@@ -47,7 +47,7 @@ Rank,Name,Total_net_worth,Last_change,YTD_change,Country,Industry
 46,Leonid Mikhelson,17800000000,-73500000.0,500000000.0,Russian,Energy
 47,Ron Perelman,17700000000,-14800000.0,716000000.0,United States,Diversified
 48,Francois Pinault,17300000000,-11600000.0,2290000.0,France,Consumer
-49,Serge Dassault,17200000000,-994k,1940000.0,France,Industrial
+49,Serge Dassault,17200000000,-994000,1940000.0,France,Industrial
 50,Alexey Mordashov,16900000000,69600000.0,7300000.0,Russian,Industrial
 51,Lee Kun Hee,16900000000,152000000.0,2770000.0,Korea,Diversified
 52,William Ding,16800000000,-398000000.0,3960000.0,China,Technology
@@ -87,7 +87,7 @@ Rank,Name,Total_net_worth,Last_change,YTD_change,Country,Industry
 86,Yeung Kin-Man,12800000000,-215000000.0,789000000.0,Hong Kong,Technology
 87,John Menard Jr,12600000000,0,1020000.0,United States,Retail
 88,Dietrich Mateschitz,12600000000,-29200000.0,1470000.0,Austria,Food & Beverage
-89,Charlene de Carvalho-Heineken,12600000000,-149k,1430000.0,Netherlands,Food & Beverage
+89,Charlene de Carvalho-Heineken,12600000000,-149000,1430000.0,Netherlands,Food & Beverage
 90,Takemitsu Takizaki,12500000000,54600000.0,1850000.0,Japan,Technology
 91,Lui Che Woo,12400000000,23000000.0,2140000.0,Hong Kong,Entertainment
 92,Yongxing Liu,12300000000,17100000.0,1810000.0,China,Industrial
@@ -128,7 +128,7 @@ Rank,Name,Total_net_worth,Last_change,YTD_change,Country,Industry
 127,Hui Ka Yan,10200000000,745000000.0,2760000.0,China,Real Estate
 128,Aliko Dangote,10000000000.0,242000000.0,-349000000.0,Nigeria,Industrial
 129,Zhang Zhidong,9990000000.0,82200000.0,1590000.0,China,Technology
-130,David Tepper,9870000000.0,+15.5k,15200000.0,United States,Finance
+130,David Tepper,9870000000.0,+15500,15200000.0,United States,Finance
 131,John Fredriksen,9820000000.0,-26600000.0,-132000000.0,Cyprus,Industrial
 132,Jan Koum,9820000000.0,25000000.0,991000000.0,United States,Technology
 133,Micky Arison,9750000000.0,-30800000.0,666000000.0,United States,Entertainment
@@ -155,7 +155,7 @@ Rank,Name,Total_net_worth,Last_change,YTD_change,Country,Industry
 154,Tan Siok Tjien,8630000000.0,109000000.0,364000000.0,Indonesia,Consumer
 155,John Malone,8580000000.0,19300000.0,476000000.0,United States,Media & Telecom
 156,Paolo Rocca,8550000000.000001,-83400000.0,-662000000.0,Italy,Commodities
-157,Joseph Lau,8480000000.0,-458k,505000000.0,Hong Kong,Real Estate
+157,Joseph Lau,8480000000.0,-458000,505000000.0,Hong Kong,Real Estate
 158,Reinhold Wuerth,8380000000.000001,-48100000.0,492000000.0,Germany,Industrial
 159,Lei Jun,8380000000.000001,18900000.0,1110000.0,China,Technology
 160,August von Finck,8340000000.0,-20100000.0,345000000.0,Germany,Diversified
@@ -174,7 +174,7 @@ Rank,Name,Total_net_worth,Last_change,YTD_change,Country,Industry
 173,Roberto Marinho,7640000000.0,25000000.0,1130000.0,Brazil,Media & Telecom
 174,Joao Marinho,7640000000.0,25000000.0,1130000.0,Brazil,Media & Telecom
 175,Ludwig Merckle,7620000000.0,39300000.0,268000000.0,Germany,Industrial
-176,John Paulson,7620000000.0,+79.6k,-6110000.0,United States,Finance
+176,John Paulson,7620000000.0,+79600,-6110000.0,United States,Finance
 177,David Geffen,7550000000.0,1940000.0,463000000.0,United States,Entertainment
 178,Jose Marinho,7550000000.0,25000000.0,+190000000,Brazil,Media & Telecom
 179,Victor Rashnikov,7540000000.0,-47200000.0,1150000.0,Russian,Industrial
@@ -194,7 +194,7 @@ Rank,Name,Total_net_worth,Last_change,YTD_change,Country,Industry
 193,Sergey Galitskiy,7220000000.0,-118000000.0,-405000000.0,Russian,Retail
 194,James Dyson,7220000000.0,-39700000.0,2560000.0,United Kingdom,Consumer
 195,Theo Albrecht Jr,7210000000.0,20900000.0,-99900000.0,Germany,Retail
-196,Richard LeFrak,7200000000.0,+292k,86900000.0,United States,Real Estate
+196,Richard LeFrak,7200000000.0,+292000,86900000.0,United States,Real Estate
 197,Oleg Deripaska,7200000000.0,22000000.0,1080000.0,Russian,Commodities
 198,Gordon Moore,7190000000.0,-25300000.0,-76300000.0,United States,Technology
 199,Joseph Tsai,7130000000.0,103000000.0,1410000.0,Canada,Technology
@@ -211,7 +211,7 @@ Rank,Name,Total_net_worth,Last_change,YTD_change,Country,Industry
 210,Wee Cho Yaw,6810000000.0,54300000.0,888000000.0,Singapore,Finance
 211,Jorn Rausing,6810000000.0,-62700000.0,223000000.0,Sweden,Services
 212,Suh Kyung-Bae,6790000000.0,22700000.0,74200000.0,Korea,Consumer
-213,Xu Shihui,6790000000.0,-524k,737000000.0,China,Food & Beverage
+213,Xu Shihui,6790000000.0,-524000,737000000.0,China,Food & Beverage
 214,Les Wexner,6780000000.0,31800000.0,-696000000.0,United States,Retail
 215,Gong Hongjia,6720000000.0,2330000.0,1570000.0,China,Technology
 216,Michael Kadoorie,6710000000.0,2520000.0,704000000.0,Hong Kong,Energy
@@ -222,7 +222,7 @@ Rank,Name,Total_net_worth,Last_change,YTD_change,Country,Industry
 221,Wu Shaoxun,6640000000.0,-62000000.0,1300000.0,China,Food & Beverage
 222,Heinrich Deichmann,6630000000.0,-27700000.0,107000000.0,Germany,Retail
 223,Robert Rowling,6620000000.0,9240000.0,-87500000.0,United States,Energy
-224,Zhang Shiping,6580000000.0,-255k,396000000.0,China,Industrial
+224,Zhang Shiping,6580000000.0,-255000,396000000.0,China,Industrial
 225,Nicky Oppenheimer,6570000000.0,27300000.0,113000000.0,South Africa,Diversified
 226,Arthur Irving,6540000000.0,77200000.0,-181000000.0,Canada,Energy
 227,Jay Y Lee,6450000000.0,77200000.0,754000000.0,Korea,Diversified
@@ -273,16 +273,16 @@ Rank,Name,Total_net_worth,Last_change,YTD_change,Country,Industry
 272,Ricardo Salinas,5640000000.0,97900000.0,1790000.0,Mexico,Diversified
 273,Ananda Krishnan,5640000000.0,-31300000.0,472000000.0,Malaysia,Diversified
 274,Vikram Lal,5620000000.0,63100000.0,856000000.0,India,Industrial
-275,Ira Rennert,5620000000.0,+941k,48100000.0,United States,Commodities
+275,Ira Rennert,5620000000.0,+941000,48100000.0,United States,Commodities
 276,Bruce Halle,5620000000.0,79700000.0,-610000000.0,United States,Retail
-277,Lin Yu-Lin,5570000000.0,+547k,130000000.0,Taiwan,Real Estate
+277,Lin Yu-Lin,5570000000.0,+547000,130000000.0,Taiwan,Real Estate
 278,Bob Rich,5560000000.0,24700000.0,270000000.0,United States,Food & Beverage
 279,Kwon Hyuk-Bin,5550000000.0,121000000.0,93700000.0,Korea,Media & Telecom
 280,Petr Aven,5530000000.0,-4300000.0,128000000.0,Russian,Diversified
 281,Bidzina Ivanishvili,5520000000.0,0,75000000.0,Georgia,Diversified
 282,Teh Hong Piow,5510000000.0,-3980000.0,228000000.0,Malaysia,Finance
 283,Ralph Lauren,5470000000.0,35600000.0,-124000000.0,United States,Consumer
-284,Ken Griffin,5470000000.0,+274k,-20900000.0,United States,Finance
+284,Ken Griffin,5470000000.0,+274000,-20900000.0,United States,Finance
 285,Scott Duncan,5440000000.0,24300000.0,748000000.0,United States,Energy
 286,Dannine Avara,5440000000.0,24300000.0,748000000.0,United States,Energy
 287,Milane Duncan Frantz,5440000000.0,24300000.0,748000000.0,United States,Energy
@@ -319,7 +319,7 @@ Rank,Name,Total_net_worth,Last_change,YTD_change,Country,Industry
 318,Joe Lewis,590000000,-16000000.0,138000000.0,United Kingdom,Diversified
 319,Anthony Pratt,5060000000.0,7210000.0,359000000.0,Australia,Industrial
 320,Kenneth Dart,5050000000.0,23900000.0,239000000.0,Cayman Islands,Finance
-321,Richard Branson,5030000000.0,-402k,38000000.0,United Kingdom,Diversified
+321,Richard Branson,5030000000.0,-402000,38000000.0,United Kingdom,Diversified
 322,Robert Ng,5020000000.0,14600000.0,630000000.0,Singapore,Real Estate
 323,Magdalena Martullo-Blocher,5010000000.0,-34900000.0,580000000.0,Switzerland,Industrial
 324,Lynn Schusterman,5010000000.0,4700000.0,60300000.0,United States,Energy
@@ -345,13 +345,13 @@ Rank,Name,Total_net_worth,Last_change,YTD_change,Country,Industry
 344,Li Shu Fu,4890000000.0,-124000000.0,1780000.0,China,Industrial
 345,Aloys Wobben,4860000000.0,-20300000.0,-237000000.0,Germany,Energy
 346,Mary Malone,4860000000.0,-7450000.0,-102000000.0,United States,Food & Beverage
-347,Simon Reuben,4860000000.0,-135k,-278000000.0,United Kingdom,Diversified
-348,David Reuben,4860000000.0,-270k,-283000000.0,United Kingdom,Diversified
-349,David Shaw,4850000000.0,+733k,84500000.0,United States,Finance
+347,Simon Reuben,4860000000.0,-135000,-278000000.0,United Kingdom,Diversified
+348,David Reuben,4860000000.0,-270000,-283000000.0,United Kingdom,Diversified
+349,David Shaw,4850000000.0,+733000,84500000.0,United States,Finance
 350,Leandro Rizzuto,4850000000.0,-4090000.0,17300000.0,United States,Consumer
 351,Ivan Glasenberg,4840000000.0,14700000.0,577000000.0,Australia,Commodities
-352,Shahid Khan,4840000000.0,-94.7k,-63600000.0,United States,Consumer
-353,Francis Choi,4820000000.0,-86.1k,-2080000.0,Hong Kong,Real Estate
+352,Shahid Khan,4840000000.0,-94700,-63600000.0,United States,Consumer
+353,Francis Choi,4820000000.0,-86100,-2080000.0,Hong Kong,Real Estate
 354,Mikhail Gutseriev,4810000000.0,36700000.0,418000000.0,Russian,Diversified
 355,Desh Gupta,4810000000.0,22000000.0,119000000.0,India,Health Care
 356,Leonid Fedun,4800000000.0,51200000.0,-87200000.0,Russian,Energy
@@ -364,12 +364,12 @@ Rank,Name,Total_net_worth,Last_change,YTD_change,Country,Industry
 363,Axel Oberwelland,4750000000.0,-41400000.0,637000000.0,Germany,Food & Beverage
 364,John Sall,4740000000.0,3640000.0,129000000.0,United States,Technology
 365,Denis O'Brien,4740000000.0,-6540000.0,415000000.0,Ireland,Media & Telecom
-366,Rich Devos,4740000000.0,-250k,119000000.0,United States,Consumer
-367,Sam Zell,4710000000.0,+266k,83300000.0,United States,Real Estate
+366,Rich Devos,4740000000.0,-250000,119000000.0,United States,Consumer
+367,Sam Zell,4710000000.0,+266000,83300000.0,United States,Real Estate
 368,Reinhold Schmieding,4700000000.0,1990000.0,171000000.0,United States,Health Care
 369,Tamara Hughes Gustavson,4690000000.0,-49200000.0,9770000.0,United States,Services
 370,Yan Bin,4680000000.0,-3210000.0,261000000.0,Thailand,Food & Beverage
-371,Jeff Skoll,4680000000.0,+479k,139000000.0,Canada,Technology
+371,Jeff Skoll,4680000000.0,+479000,139000000.0,Canada,Technology
 372,Jude Reyes,4670000000.0,-15200000.0,-1250000.0,United States,Consumer
 373,Chris Reyes,4670000000.0,-15200000.0,-1250000.0,United States,Consumer
 374,David Thomson,4660000000.0,8710000.0,11100000.0,Canada,Media & Telecom
@@ -405,7 +405,7 @@ Rank,Name,Total_net_worth,Last_change,YTD_change,Country,Industry
 404,Srichand Hinduja,4330000000.0,-4770000.0,574000000.0,United Kingdom,Diversified
 405,Samvel Karapetyan,4320000000.0,58900000.0,276000000.0,Russian,Real Estate
 406,Wu Yajun,4310000000.0,-126000000.0,1040000.0,China,Real Estate
-407,Walter Scott,4290000000.0,-314k,327000000.0,United States,Energy
+407,Walter Scott,4290000000.0,-314000,327000000.0,United States,Energy
 408,Enrique Coppel Luken,4280000000.0000005,4800000.0,462000000.0,Mexico,Retail
 409,Horst Paulmann,4269999999.9999995,-3330000.0,511000000.0,Chile,Retail
 410,Frits Goldschmeding,4269999999.9999995,-82900000.0,251000000.0,Netherlands,Retail
@@ -415,10 +415,10 @@ Rank,Name,Total_net_worth,Last_change,YTD_change,Country,Industry
 414,Simon Xie,4230000000.0000005,0,0,China,Technology
 415,Juan Roig,4219999999.9999995,58200000.0,354000000.0,Spain,Food & Beverage
 416,Wang Chuan-Fu,4210000000.0,-85500000.0,-11300000.0,China,Consumer
-417,Haim Saban,4210000000.0,+861k,175000000.0,United States,Entertainment
+417,Haim Saban,4210000000.0,+861000,175000000.0,United States,Entertainment
 418,Ronda Stryker,4200000000.0,-18400000.0,119000000.0,United States,Health Care
 419,Anthoni Salim,4200000000.0,58000000.0,1160000.0,Indonesia,Diversified
-420,Bob Kraft,4160000000.0,+18.4k,1370000.0,United States,Entertainment
+420,Bob Kraft,4160000000.0,+18400,1370000.0,United States,Entertainment
 421,Andre Hoffmann,4150000000.0000005,-7930000.0,416000000.0,Switzerland,Health Care
 422,Liz Mohn,4150000000.0000005,-7270000.0,-453000000.0,Germany,Media & Telecom
 423,Vera Michalski-Hoffmann,4139999999.9999995,9600000.0,394000000.0,Switzerland,Health Care
@@ -437,7 +437,7 @@ Rank,Name,Total_net_worth,Last_change,YTD_change,Country,Industry
 436,Fredrik Lundberg,4030000000.0000005,6510000.0,307000000.0,Sweden,Real Estate
 437,Edwin Leong,4019999999.9999995,0,0,Hong Kong,Real Estate
 438,Edward Roski,4019999999.9999995,0,-23800000.0,United States,Real Estate
-439,Mike Adenuga,4019999999.9999995,-940k,45300000.0,Nigeria,Media & Telecom
+439,Mike Adenuga,4019999999.9999995,-940000,45300000.0,Nigeria,Media & Telecom
 440,Ralph Dommermuth,4010000000.0,55500000.0,560000000.0,Germany,Technology
 441,Ronald McAulay,4000000000.0,1620000.0,411000000.0,Hong Kong,Energy
 442,Rodger Riney,4000000000.0,0,0,United States,Finance
@@ -464,10 +464,10 @@ Rank,Name,Total_net_worth,Last_change,YTD_change,Country,Industry
 463,Jorge Moll,3850000000.0,25000000.0,75000000.0,Brazil,Health Care
 464,Eddie Lampert,3830000000.0,31500000.0,73200000.0,United States,Finance
 465,Hussain Sajwani,3820000000.0,-23800000.0,111000000.0,United Arab Emirates,Real Estate
-466,Jerry Jones,3800000000.0,+314k,-4670000.0,United States,Entertainment
+466,Jerry Jones,3800000000.0,+314000,-4670000.0,United States,Entertainment
 467,Sheldon Solow,3790000000.0,0,85000000.0,United States,Real Estate
-468,Thomas Strungmann,3790000000.0,+90.5k,126000000.0,Germany,Health Care
-469,Andreas Strungmann,3790000000.0,+91.7k,126000000.0,Germany,Health Care
+468,Thomas Strungmann,3790000000.0,+90500,126000000.0,Germany,Health Care
+469,Andreas Strungmann,3790000000.0,+91700,126000000.0,Germany,Health Care
 470,Patrizio Bertelli,3790000000.0,92000000.0,532000000.0,Italy,Consumer
 471,Samuel Yin,3780000000.0,-8930000.0,198000000.0,Taiwan,Diversified
 472,Yuri Milner,3770000000.0,15900000.0,473000000.0,Russian,Technology
@@ -493,7 +493,7 @@ Rank,Name,Total_net_worth,Last_change,YTD_change,Country,Industry
 492,Curt Johnson III,3680000000.0,-2710000.0,318000000.0,United States,Consumer
 493,Sergei Popov,3680000000.0,0,100000000.0,Russian,Diversified
 494,Steve Bechtel,3670000000.0,56500000.0,-139000000.0,United States,Industrial
-495,Samuel Lee,3670000000.0,-257k,2820000.0,Hong Kong,Real Estate
+495,Samuel Lee,3670000000.0,-257000,2820000.0,Hong Kong,Real Estate
 496,Antti Herlin,3660000000.0,-30200000.0,38000000.0,Finland,Industrial
 497,Dan Friedkin,3660000000.0,29100000.0,379000000.0,United States,Retail
 498,Izzy Englander,3660000000.0,-1310000.0,-40200000.0,United States,Finance
